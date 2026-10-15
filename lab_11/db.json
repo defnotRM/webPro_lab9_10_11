@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "price": 12900,
+      "category": "Computer",
+      "description": "High performance laptop with high resolution screen and long battery life.",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": 1290,
+      "category": "Audio",
+      "description": "Noise cancelling over-ear wireless headphones with deep bass.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Backpack",
+      "price": 890,
+      "category": "Fashion",
+      "description": "Durable water-resistant backpack suitable for daily commute and travel.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 2990,
+      "category": "Gadget",
+      "description": "Fitness tracking smartwatch with heart rate monitor and AMOLED display.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80"
+    }
+  ]
+}
